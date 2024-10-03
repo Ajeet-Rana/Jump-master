@@ -14,5 +14,4 @@ This web-based game challenges players to navigate through dynamic obstacles by 
 - **HTML:** The foundation of the game's structure and content.
 - **CSS:** Used for styling to enhance the visual appeal and user experience.
 - **JavaScript:** Powering the game logic and interactivity, enabling dynamic obstacle generation and player movement.
-
-
+  Great Projects
